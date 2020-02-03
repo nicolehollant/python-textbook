@@ -126,7 +126,6 @@ class LyricScraper:
         for filename in directory:
             if filename.is_file():
                 if filename.name.endswith('json') and filename.name.startswith("songscraping"):
-                    filestr = ""
                     with open('./songscraping/'+filename.name, "r") as f:
                         currentList = json.load(f)
                         for artist in currentList:

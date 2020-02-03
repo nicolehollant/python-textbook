@@ -85,7 +85,6 @@ if __name__ == "__main__":
     # getString: extract string with arg
     getString = lambda toRemove: str(set(sys.argv).difference(removeArgs(toRemove)).pop()).split('=', 1)[1]
 
-
     if checkArgs(["-h", "--help"]) or len(sys.argv) is 1:
         print("To run:\n\tprimes.py (options) NUMBER")
         print("""Options:

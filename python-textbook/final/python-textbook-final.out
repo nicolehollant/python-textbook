@@ -1,0 +1,29 @@
+\BOOKMARK [0][-]{chapter*.2}{Dedication}{}% 1
+\BOOKMARK [0][-]{chapter*.3}{Acknowledgments}{}% 2
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 3
+\BOOKMARK [0][-]{chapter.2}{Python Tutorial!}{}% 4
+\BOOKMARK [1][-]{section.2.1}{Why Python?}{chapter.2}% 5
+\BOOKMARK [1][-]{section.2.2}{Do I have Python?}{chapter.2}% 6
+\BOOKMARK [1][-]{section.2.3}{Command Line Python}{chapter.2}% 7
+\BOOKMARK [1][-]{section.2.4}{Python from a file!}{chapter.2}% 8
+\BOOKMARK [2][-]{subsection.2.4.1}{An aside on using your terminal}{section.2.4}% 9
+\BOOKMARK [1][-]{section.2.5}{Python Basics}{chapter.2}% 10
+\BOOKMARK [2][-]{subsection.2.5.1}{General Variables}{section.2.5}% 11
+\BOOKMARK [2][-]{subsection.2.5.2}{Booleans}{section.2.5}% 12
+\BOOKMARK [2][-]{subsection.2.5.3}{Numbers}{section.2.5}% 13
+\BOOKMARK [2][-]{subsection.2.5.4}{Strings}{section.2.5}% 14
+\BOOKMARK [2][-]{subsection.2.5.5}{Lists}{section.2.5}% 15
+\BOOKMARK [2][-]{subsection.2.5.6}{Dictionaries}{section.2.5}% 16
+\BOOKMARK [2][-]{subsection.2.5.7}{None}{section.2.5}% 17
+\BOOKMARK [1][-]{section.2.6}{Practical Example!}{chapter.2}% 18
+\BOOKMARK [1][-]{section.2.7}{Object Oriented Programming}{chapter.2}% 19
+\BOOKMARK [2][-]{subsection.2.7.1}{Basic Class Example: Triangle}{section.2.7}% 20
+\BOOKMARK [2][-]{subsection.2.7.2}{Encapsulation / Getters example: Banks}{section.2.7}% 21
+\BOOKMARK [2][-]{subsection.2.7.3}{Encapsulation / Getters and Setters example: Clock}{section.2.7}% 22
+\BOOKMARK [2][-]{subsection.2.7.4}{Operator Overloading / Magic Methods: Fractions}{section.2.7}% 23
+\BOOKMARK [2][-]{subsection.2.7.5}{Inheritance and Polymorphism}{section.2.7}% 24
+\BOOKMARK [1][-]{section.2.8}{File Manipulation}{chapter.2}% 25
+\BOOKMARK [2][-]{subsection.2.8.1}{Working with CSV}{section.2.8}% 26
+\BOOKMARK [2][-]{subsection.2.8.2}{Numpy}{section.2.8}% 27
+\BOOKMARK [1][-]{section.2.9}{Web Scraping}{chapter.2}% 28
+\BOOKMARK [1][-]{section.2.10}{Bye for now \(and only for now\)}{chapter.2}% 29

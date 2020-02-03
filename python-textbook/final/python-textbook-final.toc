@@ -1,0 +1,29 @@
+\contentsline {chapter}{Dedication}{}{chapter*.2}% 
+\contentsline {chapter}{Acknowledgments}{}{chapter*.3}% 
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}% 
+\contentsline {chapter}{\numberline {2}Python Tutorial!}{3}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}Why Python?}{3}{section.2.1}% 
+\contentsline {section}{\numberline {2.2}Do I have Python?}{4}{section.2.2}% 
+\contentsline {section}{\numberline {2.3}Command Line Python}{5}{section.2.3}% 
+\contentsline {section}{\numberline {2.4}Python from a file!}{6}{section.2.4}% 
+\contentsline {subsection}{\numberline {2.4.1}An aside on using your terminal}{6}{subsection.2.4.1}% 
+\contentsline {section}{\numberline {2.5}Python Basics}{8}{section.2.5}% 
+\contentsline {subsection}{\numberline {2.5.1}General Variables}{8}{subsection.2.5.1}% 
+\contentsline {subsection}{\numberline {2.5.2}Booleans}{10}{subsection.2.5.2}% 
+\contentsline {subsection}{\numberline {2.5.3}Numbers}{11}{subsection.2.5.3}% 
+\contentsline {subsection}{\numberline {2.5.4}Strings}{12}{subsection.2.5.4}% 
+\contentsline {subsection}{\numberline {2.5.5}Lists}{12}{subsection.2.5.5}% 
+\contentsline {subsection}{\numberline {2.5.6}Dictionaries}{13}{subsection.2.5.6}% 
+\contentsline {subsection}{\numberline {2.5.7}None}{14}{subsection.2.5.7}% 
+\contentsline {section}{\numberline {2.6}Practical Example!}{14}{section.2.6}% 
+\contentsline {section}{\numberline {2.7}Object Oriented Programming}{28}{section.2.7}% 
+\contentsline {subsection}{\numberline {2.7.1}Basic Class Example: Triangle}{29}{subsection.2.7.1}% 
+\contentsline {subsection}{\numberline {2.7.2}Encapsulation / Getters example: Banks}{33}{subsection.2.7.2}% 
+\contentsline {subsection}{\numberline {2.7.3}Encapsulation / Getters and Setters example: Clock}{37}{subsection.2.7.3}% 
+\contentsline {subsection}{\numberline {2.7.4}Operator Overloading / Magic Methods: Fractions}{40}{subsection.2.7.4}% 
+\contentsline {subsection}{\numberline {2.7.5}Inheritance and Polymorphism}{44}{subsection.2.7.5}% 
+\contentsline {section}{\numberline {2.8}File Manipulation}{47}{section.2.8}% 
+\contentsline {subsection}{\numberline {2.8.1}Working with CSV}{50}{subsection.2.8.1}% 
+\contentsline {subsection}{\numberline {2.8.2}Numpy}{57}{subsection.2.8.2}% 
+\contentsline {section}{\numberline {2.9}Web Scraping}{62}{section.2.9}% 
+\contentsline {section}{\numberline {2.10}Bye for now (and only for now)}{67}{section.2.10}% 
